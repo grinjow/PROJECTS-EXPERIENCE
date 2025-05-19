@@ -2,10 +2,9 @@
 ------------------------------------------------------------------------
 Basic Calculator Application
 ------------------------------------------------------------------------
-Author: Olufemi Ajayi
-ID:  169071336   
-Email:  ajay1336@mylaurier.ca
-__updated__ = "2023-09-14"
+Author: Olufemi Ajayi 
+Email: officialfemiajayi@gmail.com
+__updated__ = "2025-01-14"
 ------------------------------------------------------------------------
 """ 
 from tkinter import Tk, Entry, Button, StringVar
